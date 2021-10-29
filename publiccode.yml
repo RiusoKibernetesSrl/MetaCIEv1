@@ -1,0 +1,64 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - application-development
+description:
+  it:
+    features:
+      - Creazione Certificato con chiave privata
+      - Firma Xades del metadata
+    genericName: MetaCIE
+    longDescription: |
+      Libreria per la generazione dei metadata CIE, secondo specifiche
+      rilasciate in documentazione tecnica.
+
+       La libreria, secondo un input di dati,  riferiti all'Ente utilizzatore,
+
+       genera sia il certificato che  il metadata già firmato con la chiave privata del certificato precedentemente creato.
+
+      Il set di dati iniziali, sono tutti i dati riferiti all'Ente,
+
+       obbligatori per la generazione del certificato e di conseguenza del metadata.
+
+      Al momento, la versione 1.0 della libreria,
+
+       supporta un set standard di attributi. 
+
+      ​
+
+        
+    shortDescription: Generazione Metadata CIE
+developmentStatus: beta
+it:
+  conforme:
+    gdpr: true
+    lineeGuidaDesign: false
+    misureMinimeSicurezza: false
+    modelloInteroperabilita: true
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: true
+    pagopa: false
+    spid: false
+legal:
+  license: Apache-2.0
+localisation:
+  availableLanguages:
+    - it
+  localisationReady: true
+maintenance:
+  contacts:
+    - email: dgallo@kibernetes-rc.it
+      name: Domenico Gallo
+  type: internal
+name: Generazione Metadata -CIE
+platforms:
+  - windows
+releaseDate: '2021-01-10'
+softwareType: standalone/other
+softwareVersion: '1.0'
+url: 'https://github.com/RiusoKibernetesSrl/MetaCIEv1.git'

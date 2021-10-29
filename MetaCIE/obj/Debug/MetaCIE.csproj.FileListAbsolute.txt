@@ -1,0 +1,8 @@
+C:\Users\Domenico\source\repos\MetaCIE\MetaCIE\bin\Debug\MetaCIE.dll
+C:\Users\Domenico\source\repos\MetaCIE\MetaCIE\bin\Debug\MetaCIE.pdb
+C:\Users\Domenico\source\repos\MetaCIE\MetaCIE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Domenico\source\repos\MetaCIE\MetaCIE\obj\Debug\MetaCIE.csproj.CoreCompileInputs.cache
+C:\Users\Domenico\source\repos\MetaCIE\MetaCIE\obj\Debug\MetaCIE.csproj.CopyComplete
+C:\Users\Domenico\source\repos\MetaCIE\MetaCIE\obj\Debug\MetaCIE.dll
+C:\Users\Domenico\source\repos\MetaCIE\MetaCIE\obj\Debug\MetaCIE.pdb
+C:\Users\Domenico\source\repos\MetaCIE\MetaCIE\obj\Debug\MetaCIE.csprojAssemblyReference.cache

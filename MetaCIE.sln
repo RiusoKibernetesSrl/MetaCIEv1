@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaCIE", "MetaCIE\MetaCIE.csproj", "{C8342F0B-D698-4936-8BB5-373598FB0592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{C66C7C66-39E9-4B37-90E3-6729F43FF65C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8342F0B-D698-4936-8BB5-373598FB0592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8342F0B-D698-4936-8BB5-373598FB0592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8342F0B-D698-4936-8BB5-373598FB0592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8342F0B-D698-4936-8BB5-373598FB0592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66C7C66-39E9-4B37-90E3-6729F43FF65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66C7C66-39E9-4B37-90E3-6729F43FF65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66C7C66-39E9-4B37-90E3-6729F43FF65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66C7C66-39E9-4B37-90E3-6729F43FF65C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {862A7947-C24E-43F0-9584-EFE601CB1908}
+	EndGlobalSection
+EndGlobal
